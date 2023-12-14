@@ -1,0 +1,20 @@
+#color{
+    float: right;
+    margin-right: 15px;
+}
+#btn{
+    padding:2px;
+    color:black;
+    background-color: aqua;
+}
+
+#wrapper{
+    display: flex;
+    border: 2px solid black;
+    box-sizing: border-box;
+    height: 90vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+
+}
